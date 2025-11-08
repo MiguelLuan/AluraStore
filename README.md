@@ -2,10 +2,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Concluido-green" alt="Status: Concluído"/>
-  <img src="https://img.shields.io/github/languages/count/MiguelLuan/challeng-amigo-secreto" alt="Contagem de Linguagens GitHub"/>
-  <img src="https://img.shields.io/github/last-commit/MiguelLuan/challeng-amigo-secreto" alt="Último Commit"/>
-  <img src="https://img.shields.io/github/license/MiguelLuan/challeng-amigo-secreto" alt="Licença"/>
-  <img src="https://img.shields.io/github/stars/MiguelLuan/challeng-amigo-secreto" alt="Estrelas"/>
+  <img src="https://img.shields.io/github/languages/count/MiguelLuan/AluraStore" alt="Contagem de Linguagens GitHub"/>
+  <img src="https://img.shields.io/github/last-commit/MiguelLuan/AluraStore" alt="Último Commit"/>
+  <img src="https://img.shields.io/github/license/MiguelLuan/AluraStore" alt="Licença"/>
+  <img src="https://img.shields.io/github/stars/MiguelLuan/AluraStore" alt="Estrelas"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,6 @@ AluraStore
 
 5. **Conclusão**
    - Síntese dos resultados e indicação de qual loja apresenta menor desempenho geral.
----
 
 <h2 id="results">📈 Principais Resultados</h2>
 
@@ -81,8 +80,6 @@ AluraStore
 - **Loja com alta volatilidade**: Loja 4
 - **Loja com melhor avaliação média:** Loja 3 
 
----
-
  <h2 id="techs">🛠️ Tecnologias Utilizadas</h2>
 
 - **Python 3**
@@ -91,7 +88,6 @@ AluraStore
 - **Matplotlib** — visualização de dados  
 - **Google Colab / Jupyter Notebook** — ambiente de execução
 
----
 
 <h2 id="execute">🚀 Como Executar o Projeto</h2>
 
