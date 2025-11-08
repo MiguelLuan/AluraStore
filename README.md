@@ -124,4 +124,4 @@ Com base nos indicadores, o Sr. João pode tomar uma decisão informada sobre qu
 
 <h2 id="license">📝 Licença</h3>
 
-Este projeto esta sobe a licença [MIT](https://github.com/MiguelLuan/AluraStore/blob/main/LICENSE)).
+Este projeto esta sobe a licença [MIT](https://github.com/MiguelLuan/AluraStore/blob/main/LICENSE).
