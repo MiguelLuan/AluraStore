@@ -80,6 +80,24 @@ AluraStore
 - **Loja com alta volatilidade**: Loja 4
 - **Loja com melhor avaliação média:** Loja 3 
 
+<h2 id="graphics">📊 Principais Gráficos
+
+### Faturamento Total por Loja
+![Gráfico de Faturamento](images/faturamento_lojas.png)
+
+### Volume e Faturamento arrecadado por Categoria
+![Volume Arrecadado por Categoria](images/quantidade_categoria_lojas.png)
+
+![Faturamento Arrecadado por Categoria](images/faturamento__categoria_lojas.png)
+
+### Evolução do Faturamento Mensal por Loja
+
+![Evolução do Faturamento Mensal por Loja](images/evolucao_faturamento_lojas.png)
+
+### Relação entre o Preço Médio dos Produtos e Frete Médio
+
+![Preco_por_frete](images/preco_por_frete.png)
+
  <h2 id="techs">🛠️ Tecnologias Utilizadas</h2>
 
 - **Python 3**
