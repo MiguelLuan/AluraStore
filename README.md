@@ -83,7 +83,8 @@ AluraStore
 <h2 id="graphics">📊 Principais Gráficos
 
 ### Faturamento Total por Loja
-![Gráfico de Faturamento](images/faturamento_lojas.png)
+
+<p align="center"><img src="images/faturamento_lojas.png" width="80%"></p>
 
 ### Volume e Faturamento arrecadado por Categoria
 ![Volume Arrecadado por Categoria](images/quantidade_categoria_lojas.png)
@@ -96,8 +97,7 @@ AluraStore
 
 ### Relação entre o Preço Médio dos Produtos e Frete Médio
 
-![Preco_por_frete](images/preco_por_frete.png)
-
+<p align="center"><img src="images/preco_por_frete.png"  width="60%"></p>
  <h2 id="techs">🛠️ Tecnologias Utilizadas</h2>
 
 - **Python 3**
