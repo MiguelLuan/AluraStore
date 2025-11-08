@@ -31,7 +31,7 @@
   O notebook <strong>AluraStore.ipynb</strong> realiza uma série de análises com foco em:
   
   <li>O <strong>faturamento total</strong> das lojas;</li>
-  <li>O <strong>O custo médio do frete</strong></li>
+  <li>O <strong>O custo médio do frete;</strong></li>
   <li>As <strong>categorias de produtos mais e menos vendidas</strong>;</li>
   <li>A <strong>média das avaliações de clientes</strong> por loja;</li>
   <li>Os <strong>produtos mais e menos vendidos</strong>;</li>
