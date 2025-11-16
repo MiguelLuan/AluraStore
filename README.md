@@ -45,7 +45,9 @@
 ```
 AluraStore
   ├── AluraStore.ipynb # Notebook principal com toda a análise
-  ├── data-base/ # Pasta (opcional) com os arquivos CSV utilizados
+  ├── data-base/ # Pasta com os arquivos CSV utilizados
+  ├── images/ # Pasta com imagens das visualizações geradas
+  ├── LICENSE # Arquivo de licença do projeto
   └── README.md # Este arquivo de documentação
 ```
 
