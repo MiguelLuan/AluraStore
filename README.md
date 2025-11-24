@@ -106,7 +106,7 @@ AluraStore
 - **Pandas** — manipulação e análise de dados  
 - **NumPy** — operações numéricas  
 - **Matplotlib** — visualização de dados  
-- **Google Colab / Jupyter Notebook** — ambiente de execução
+- **Google Colab** — ambiente de execução
 
 
 <h2 id="execute">🚀 Como Executar o Projeto</h2>
